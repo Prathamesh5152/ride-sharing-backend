@@ -85,7 +85,7 @@ smart-airport-ride-pooling-backend/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Prathamesh5152/ride-sharing-backemd
+git clone https://github.com/Prathamesh5152/ride-sharing-backend
 cd ride-pooling-backend
 ```
 
